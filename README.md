@@ -1,0 +1,5 @@
+- Beginenr programmer
+- working on Arduino projects
+- I took a programming class once and have compeletely forgot how to do anything
+- Watch as I start project after project doing the bare minimum to get something to turn on
+- I'll Finish this when I know what I'm doing
