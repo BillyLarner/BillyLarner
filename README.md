@@ -1,7 +1,19 @@
- Hi I'm Billy, an aspiring electrical engineer from the UK. 
- 
- I'm currently learning C++ to create programs for small projects in my own time, which I plan to use for the basis of a portfolio.
+### Hi there 👋, Billy Larner
+#### Aspiring Electrical Enginner
 
- I'm still new to writing programs and am using an arduino starter kit to begin my jorney into programming.
 
- 
+I'm new to programming, while I find my footing I am learning C++ to write programs for personal Arduino projects.
+
+- 🔭 I’m currently working on Arduino tutorials 
+- 🌱 I’m currently learning C++ 
+- 😄 Pronouns: He/Him 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BillyLarner)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BillyLarner)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BillyLarner&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=BillyLarner)  
+
