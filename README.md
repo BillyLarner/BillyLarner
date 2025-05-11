@@ -13,7 +13,7 @@ I'm new to programming, while I find my footing I am learning C++ to write progr
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BillyLarner)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BillyLarner&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BillyLarner&show_icons=true&theme=shadow_green)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=BillyLarner)  
 
