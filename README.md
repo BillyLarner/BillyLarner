@@ -5,7 +5,7 @@
 I'm new to programming, while I find my footing I am learning C++ to write programs for personal Arduino projects.
 
 - 🔭 I’m currently working on Arduino tutorials 
-- 🌱 I’m currently learning C++ 
+- 🌱 I’m currently learning C++, Python and Javascript!
 - 😄 Pronouns: He/Him 
 
 
