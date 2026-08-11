@@ -1,12 +1,11 @@
 ### Hi there 👋, Billy Larner
 #### Aspiring Electrical Enginner
 
+Final year Electrical engineering student with a focus on Embedded, Power and Communication engineering.
 
-I'm new to programming, while I find my footing I am learning C++ to write programs for personal Arduino projects.
-
-- 🔭 I’m currently working on Arduino tutorials 
-- 🌱 I’m currently learning C++, Python and Javascript!
-- 😄 Pronouns: He/Him 
+> 🔭 I’m currently working on Arduino tutorials 
+> 🌱 I’m currently learning C++, Python and Javascript!
+> 😄 Pronouns: He/Him 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BillyLarner)  
