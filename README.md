@@ -12,29 +12,31 @@ My current areas of interest:
 - Autonomous Systems - Sensing, state estimation and real time decision making
 - Hardware/Software Integration - Connecting digital hardware, firmware and physical systems
 
-Current Projects:
+### Current Projects:
 
-- Autonomous Underwater Vehicle
+**Autonomous Underwater Vehicle**
+
 My final-year engineering project focuses on developing an autonomous submersible capable of maintaining a predefined depth and orientation using sensor feedback and closed loop control.
 
-- FPGA & Digital Hardware
-I'm developing my FPGA and digital design skills through projects using the following:
+**FPGA & Digital Hardware**
+  
+I'm developing my FPGA and digital design skills through projects involving:
   - RTL design
-  - Verilog/SystemsVerilog
+  - Verilog/SystemVerilog
   - Finite state machines
   - PWM and hardware timers
   - Digital interfaces
   - Hardware verification
   - FPGA based control
 
-Programming and Hardware Description Languages:
+### Programming and Hardware Description Languages:
 - C
 - C++
 - Python
 - Verilog/SystemVerilog
 - MATLAB
 
-Career Direction:
-I am working towards developing the skills necessary to enter a career focusing on embedded systems, FPGA and ASIC design with a particular interest in real time systems.
+### Career Direction:
+I am developing the skills necessary to pursue a career in embedded systems, FPGA and ASIC design, with a particular interest in real-time systems.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BillyLarner) 
